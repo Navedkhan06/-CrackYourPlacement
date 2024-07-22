@@ -1,4 +1,4 @@
-public class GFG{
+public class Maximum_size{
     
     public static int maximalRectangle(char[][] matrix) {
         if (matrix == null || matrix.length == 0) {
